@@ -14,7 +14,7 @@ Co se týče front-endu, pro kompilování CSS používám SASS preprocessor, kt
 Co se týče CSS, líbí se mi styl popisu tříd z UIKITu. Například `.uk-container`. Na první pohled vím, že se jedná třídu z tohoto frameworku. Pokud nějakým způsobem upravuju vzhled nějaké UIKIT komponeny, používám vlastní třídy s předponou `.pt-`. Tak vím že jsme měnil nebo upravil vzhled komponeny, a odstraněním této třídy dostanu výchozí vzhled.
 
 Pro kompilaci SASS používám node.js s NPM a GULP.
-Čili pokud chcete tento startovací profil používat, je třeba mít v počítači nainstalovaný [node.js](https://nodejs.org/en/).
+**Čili pokud chcete tento startovací profil používat, je třeba mít v počítači nainstalovaný [node.js](https://nodejs.org/en/)**.
 
 Gulp se stará o kompilaci CSS a JS, a také o refresh stránky při změně scss nebo php souboru.
 
