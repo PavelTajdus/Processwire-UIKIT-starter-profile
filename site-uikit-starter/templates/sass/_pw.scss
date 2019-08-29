@@ -1,0 +1,36 @@
+// Styly specifické pro Processwire
+
+// Pro formuláře založené na processwire fieldech
+form ul {
+    list-style: none;
+    margin-left: 0;
+}
+
+img {
+    &.align_right {
+        float: right;
+        margin-left: 1rem;
+        max-width: 50%;
+        padding: (1rem / 2);
+        border: 1px solid $border-color;
+    }
+
+    &.align_left {
+        float: left;
+        margin-right: 1rem;
+        max-width: 50%;
+        padding: (1rem / 2);
+        border: 1px solid $border-color;
+    }
+
+    &.align_center {
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+        margin-bottom: 1rem;
+        clear: both;
+        max-width: 50%;
+        padding: (1rem / 2);
+        border: 1px solid $border-color;
+    }
+}

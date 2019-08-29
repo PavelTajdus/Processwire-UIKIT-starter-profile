@@ -1,0 +1,18 @@
+{
+    "file": "site\\templates\\search.php",
+    "textdomain": "site--templates--search-php",
+    "translations": {
+        "ef74df873493bcbea0e68b49833cc933": {
+            "text": "Je n\u00e1m l\u00edto, ale nic nebylo nalezeno."
+        },
+        "fea9c2ab17ee33be57019f8c7f16a16a": {
+            "text": "Pros\u00edm napi\u0161te n\u011bco do vyhled\u00e1vac\u00edho pole"
+        },
+        "38744ee54a06f2c3fa3fe854e53d425e": {
+            "text": "Nalezena %d str\u00e1nka"
+        },
+        "57781a46e81b8ad48f477003b2a8982d": {
+            "text": "Nalezeno %d str\u00e1nek"
+        }
+    }
+}
