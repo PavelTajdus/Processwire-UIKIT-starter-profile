@@ -18,6 +18,9 @@ Pro kompilaci SASS používám node.js s NPM a GULP.
 
 Gulp se stará o kompilaci CSS a JS, a také o refresh stránky při změně scss nebo php souboru.
 
+## Instalace processwire a tohoto profilu
+Stáhněte si [Processwire](https://github.com/processwire/processwire/archive/master.zip) a tento profil. Obsah `processwire-master` nakopírujte do hlavní složky (rootu) vašeho webu. Do stejné složky nakopírujte i složku profilu - `site-uikit-starter`. Poté v druhém kroku instalace vyberte z nabídky profilů `UIKIT Starter Profile`. Dále pokračujte v instalaci dle pokynů instalátoru.
+
 ## Instalace závislostí
 Pro samotnou instalaci závislostí stačí do terminálu napsat `npm install` a NPM se postará o zbytek. Dále je potřeba do prohlížeče doinstalovat doplněk [livereload](http://livereload.com/extensions/).
 
