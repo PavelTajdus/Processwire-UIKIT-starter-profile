@@ -1,0 +1,66 @@
+{
+    "file": "wire\/modules\/Process\/ProcessLogin\/ProcessLogin.module",
+    "textdomain": "wire--modules--process--processlogin--processlogin-module",
+    "translations": {
+        "5048eab3b6b17142d965cf9d43f6e460": {
+            "text": "Jste p\u0159ihl\u00e1\u0161eni."
+        },
+        "a0bfb8e59e6c13fc8d990781f77694fe": {
+            "text": "Pokra\u010dovat"
+        },
+        "847549ae30061a6767a4b17c6fb4f53c": {
+            "text": "\u00dasp\u011b\u0161n\u00e9 p\u0159ihl\u00e1\u0161en\u00ed"
+        },
+        "48649d8c2d04aa439d10bc45eaba8f75": {
+            "text": "P\u0159ihl\u00e1\u0161en\u00ed se nezda\u0159ilo"
+        },
+        "f6039d44b29456b20f8f373155ae4973": {
+            "text": "Jm\u00e9no"
+        },
+        "dc647eb65e6711e155375218212b3964": {
+            "text": "Heslo"
+        },
+        "99dea78007133396a7b8ed70578ac6ae": {
+            "text": "P\u0159ihl\u00e1sit"
+        },
+        "d837cc5a72556c5e2abf4b9fe10ddef8": {
+            "text": "P\u0159ihl\u00e1\u0161en\u00ed"
+        },
+        "0d5dfb1efbd4144f5e7c8d80df1d09f1": {
+            "text": "Jste odhl\u00e1\u0161eni"
+        },
+        "01a569ddc6cf67ddec2a683f0a5f5956": {
+            "text": "Zapomn\u011bli jste heslo?"
+        },
+        "1860fb17b107cbb39cf6bbfa61130803": {
+            "text": "Upravit profil"
+        },
+        "8b10281154afa6312e3e8448c14f7134": {
+            "text": "Dvoufaktorov\u00e1 autentizace"
+        },
+        "c32dc189adbf7de6a1277780634d1a75": {
+            "text": "Byly nalezeny n\u00e1sleduj\u00edc\u00ed moduly Tfa:"
+        },
+        "f00ee62461e9cc7a824e71feff114251": {
+            "text": "Siln\u011b doporu\u010dujeme dvoufaktorovou autentizaci pro tyto role"
+        },
+        "ab848ea82288648eb2aabe4e9e2f4dc6": {
+            "text": "Po p\u0159ihl\u00e1\u0161en\u00ed do administrace, ProcessWire vyzve u\u017eivatele v rol\u00edch, kter\u00e9 zde vyberete, aby pro sv\u00e9 \u00fa\u010dty pou\u017e\u00edvaly dvoufaktorov\u00e9 ov\u011b\u0159ov\u00e1n\u00ed."
+        },
+        "ab77fff843383131e8f774ba78654a91": {
+            "text": "K tomu je pot\u0159eba nejd\u0159\u00edve nainstalovat jeden nebo v\u00edce modul\u016f TFA a pak se sem vr\u00e1tit."
+        },
+        "aef111cc10b28b4cf297865dbc1253bb": {
+            "text": "Moduly TFA v adres\u00e1\u0159i modul\u016f ProcessWire"
+        },
+        "9b74fc37d2e8f56c60b51adb9cfc4b4b": {
+            "text": "P\u0159esko\u010den\u00ed kontrol syst\u00e9mu po p\u0159ihl\u00e1\u0161en\u00ed, nebo\u0165 byly pou\u017eity aktualizace (%s)"
+        },
+        "d03d931ed70198dc13af35410030754c": {
+            "text": "Kontrola nastaven\u00ed Javascriptu se nezda\u0159ila: povolte Javascript pro p\u0159ihl\u00e1\u0161en\u00ed."
+        },
+        "355f835c4f5fd628f83983152533363c": {
+            "text": "Kontrola nastaven\u00ed soubor\u016f cookie se nezda\u0159ila: povolte Cookies pro p\u0159ihl\u00e1\u0161en\u00ed."
+        }
+    }
+}
